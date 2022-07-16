@@ -25,5 +25,7 @@ My role was a remote iOS App developer, working with mentor developers to learn 
 6) Pocket Plan (Personal App for App Store) - After completing 800 pages of learning material, designed and built a task planner app that tracks daily tasks, calendar events and note-taking, culminating project to demonstrate proficency in Swift 
 
 ## Sample Views 
-[![i-OS-App-Dev.png](https://i.postimg.cc/Fsnb3RRk/i-OS-App-Dev.png)](https://postimg.cc/SJCzpmcm)
-[![Appdesign-i-OS.png](https://i.postimg.cc/bJWg8wtt/Appdesign-i-OS.png)](https://postimg.cc/ZBPpxZjb)
+<a href='https://postimg.cc/SJCzpmcm' target='_blank'><img src='https://i.postimg.cc/Fsnb3RRk/i-OS-App-Dev.png' border='0' alt='i-OS-App-Dev' style="width=100%"/></a>
+
+<a href='https://postimg.cc/ZBPpxZjb' target='_blank'><img src='https://i.postimg.cc/bJWg8wtt/Appdesign-i-OS.png' border='0' alt='Appdesign-i-OS' style="width=100%"/></a>
+
