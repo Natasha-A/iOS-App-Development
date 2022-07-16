@@ -26,3 +26,4 @@ My role was a remote iOS App developer, working with mentor developers to learn 
 
 ## Sample Views 
 [![i-OS-App-Dev.png](https://i.postimg.cc/Fsnb3RRk/i-OS-App-Dev.png)](https://postimg.cc/SJCzpmcm)
+[![Appdesign-i-OS.png](https://i.postimg.cc/bJWg8wtt/Appdesign-i-OS.png)](https://postimg.cc/ZBPpxZjb)
