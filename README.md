@@ -1,7 +1,7 @@
 # Apple Swift CO-OP Program
 
 ## Summary 
-Work from Apple's ICT Co-op Program. Includes all work from learning Swift and iOS mobile development through Apple's Developer curriculum books. Includes lessons, exercises, and unit projects completed. Also includes self-developed app (Pocket Plan) created to apply skilled learned in Swift into a meaningful project built for the App Store.
+Work from Apple's ICT Co-op Program. Includes all work from learning Swift and iOS mobile development through Apple's Developer curriculum books. Includes lessons, exercises, and unit projects completed. Also includes personal app created to apply skilled learned in Swift into a meaningful project built for the App Store.
 
 ## Role in Program 
 My role was a remote iOS App developer, working with mentor developers to learn Swift, and working with Apple Education to produce and test structure for the program. Everyday my schedule entailed learning new Swift programming concepts, continous verison control with Git, and collaborating/discussing code with seasonsed iOS developers.
