@@ -8,7 +8,7 @@ My role was a remote iOS App developer, working with mentor developers to learn 
 
 ## Skills Learned 
 * SwiftUI for dynamic user interface building
-* Learned and applied Apple's Human User Interface principles to create standards compliant apps  
+* Learned and applied Apple's Human User Interface principles to create standard compliant apps  
 * Thoroughly studied MVC Design patterns for view controller classes and app structure 
 * Using Swift's classes/structs to build properties + methods and additional features to code 
 * Connecting attributes to event management inputs, such as buttons, lables or image views (outlets/actions)
